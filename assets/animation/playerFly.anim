@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playerFly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.11666666666666667,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "09ed0679-d5bd-4163-8d4d-771a353e0316"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "d9f009a5-f88a-4965-a3c4-025030e9ea27"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "a5042d39-a813-4de1-b197-4ddc20ec4cba"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "09ed0679-d5bd-4163-8d4d-771a353e0316"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
